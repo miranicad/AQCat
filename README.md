@@ -42,7 +42,7 @@ Follow these steps to build your own AQCat.
 ### Enclosure
 The AQCat enclosure is made from laser-cut wood and designed in the shape of a cat. In addition to the cat-shaped front, we needed a practical way to house the electronics while keeping them accessible for maintenance and future modifications. We therefore designed a laser-cut enclosure inspired by a book.
 
-<img src="img/catLaserCut.jpg" width="300">
+<img src="img/laserCutCatH.jpg" width="300"> <img src="img/bookparts.JPG" width="300"> <img src="img/finishBook.JPG" width="300">
    
 ### Software Setup
 
@@ -87,3 +87,8 @@ Based on the measured CO₂ concentration, AQCat displays the current air qualit
 When the CO₂ concentration exceeds 1000 ppm, AQCat triggers a visual alert by illuminating the LED strip in red and flashing the cat's eyes.
 
 
+## Conclusion
+
+AQCat was created to make air quality monitoring simple, accessible, and fun. By combining sensor technology with a cat-inspired design, we transformed an everyday problem into an engaging solution.
+
+We hope AQCat encourages people to pay more attention to their indoor environment—and perhaps inspires a few more cat-themed engineering projects along the way. 🐱
