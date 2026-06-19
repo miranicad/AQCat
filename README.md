@@ -4,5 +4,7 @@ AQCat is a cat-shaped air quality monitoring system that measures environmental 
 The device uses color-coded LEDs to provide an intuitive visual indication of current air quality and ventilation needs:
 
 🔵 Blue: Air quality is good.
+
 🟡 Yellow: Air quality is moderate and should be monitored.
+
 🔴 Red: Air quality is poor and ventilation is recommended.
