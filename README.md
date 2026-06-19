@@ -30,6 +30,8 @@ Follow these steps to build your own AQCat.
 
 <img src="img/Skizze.png" width="300">
 
+The enclosure consists of a laser-cut cat-shaped front and a rounded book-inspired housing that contains all electronic components. The design provides enough space for the sensor, microcontroller, LEDs, and wiring while keeping the electronics accessible for maintenance and future modifications.
+
 ### Electronics
 <img src="img/electronics.jpg" width="300">
 
