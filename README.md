@@ -27,7 +27,11 @@ Meet Gorgi and Paco, our beloved cats and the inspiration behind AQCat.
 ## Build Instructions
 Follow these steps to build your own AQCat.
 
+<img src="img/Skizze.png" width="300">
+
 ### Electronics
+<img src="img/electronics.jpg" width="300">
+
 - Microcontroller (We used Adafruit Feather M4 Express)
 - SCD30 CO₂, temperature and humidity sensor
 - NeoPixel LED strip with 10 LEDs
@@ -36,17 +40,16 @@ Follow these steps to build your own AQCat.
 - USB cable for programming and power supply
 
 ### Enclosure
-The AQCat enclosure is made from laser-cut wood and designed in the shape of a cat.
+The AQCat enclosure is made from laser-cut wood and designed in the shape of a cat. In addition to the cat-shaped front, we needed a practical way to house the electronics while keeping them accessible for maintenance and future modifications. We therefore designed a laser-cut enclosure inspired by a book.
 
-![img_1.png](img/Skizze.png)
-
-
+<img src="img/catLaserCut.jpg" width="300">
+   
 ### Software Setup
 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/<username>/AQCat.git
+git clone https://github.com/miranicad/AQCat.git
 ```
 
 2. Open the project in the Arduino IDE.
@@ -78,6 +81,8 @@ Based on the measured CO₂ concentration, AQCat displays the current air qualit
 | x < 800 ppm    | Good air quality | 🔵 Blue |
 | 800 - 1000 ppm | Ventilation recommended soon | 🟡 Yellow |
 | x > 1000 ppm   | Ventilate immediately | 🔴 Red |
+
+<img src="img/catEyes.png" width="300">
 
 When the CO₂ concentration exceeds 1000 ppm, AQCat triggers a visual alert by illuminating the LED strip in red and flashing the cat's eyes.
 
