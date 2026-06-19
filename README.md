@@ -42,7 +42,7 @@ Follow these steps to build your own AQCat.
 ### Enclosure
 The AQCat enclosure is made from laser-cut wood and designed in the shape of a cat. In addition to the cat-shaped front, we needed a practical way to house the electronics while keeping them accessible for maintenance and future modifications. We therefore designed a laser-cut enclosure inspired by a book.
 
-<img src="img/laserCutCatH.jpg" width="300"> <img src="img/bookparts.JPG" width="300"> <img src="img/finishBook.JPG" width="300">
+<img src="img/laserCutCatH.jpg" width="200"> <img src="img/bookparts.JPG" width="200"> <img src="img/finishBook.JPG" width="200">
    
 ### Software Setup
 
