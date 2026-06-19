@@ -67,6 +67,7 @@ git clone https://github.com/miranicad/AQCat.git
 6. Upload the firmware to the microcontroller.
 
 ### System Overview
+<img src="img/catEyes.png" width="300">
 
 The SCD30 sensor continuously measures:
 
@@ -82,7 +83,6 @@ Based on the measured CO₂ concentration, AQCat displays the current air qualit
 | 800 - 1000 ppm | Ventilation recommended soon | 🟡 Yellow |
 | x > 1000 ppm   | Ventilate immediately | 🔴 Red |
 
-<img src="img/catEyes.png" width="300">
 
 When the CO₂ concentration exceeds 1000 ppm, AQCat triggers a visual alert by illuminating the LED strip in red and flashing the cat's eyes.
 
