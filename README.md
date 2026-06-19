@@ -16,7 +16,8 @@ The device uses color-coded LEDs to provide an intuitive visual indication of cu
 
 During the PHYCOM block module at FHNW, we spent many hours in a classroom on the 5th floor, where indoor temperatures often exceeded 32°C. As the day progressed, the air quality would noticeably deteriorate, making the room uncomfortable and reducing concentration. However, it was not always obvious when ventilation was actually needed.
 
-<img src="img/memeAir.png" width="300">
+<img src="img/memeAir.png" width="300"> <img src="img/i-need-air-squirrel.jpg" width="300">
+
 
 We wanted to create a simple and intuitive way to indicate when it was time to open a window and bring in fresh air. Since we both love cats, we decided to combine this idea with a playful design and build the device in the shape of a cat.
 
